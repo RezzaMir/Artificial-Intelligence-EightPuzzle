@@ -1,6 +1,6 @@
 from search import *
 
-eight_puzzle = EightPuzzle((1, 2, 3, 5, 7, 4, 8, 6, 0)) # <- change this
+eight_puzzle = EightPuzzle((1, 2, 3, 5, 7, 4, 8, 6, 0)) # <- Input any random numbers between 0-9
 
 class EightPuzzle(Problem):
 
