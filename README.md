@@ -19,11 +19,8 @@ A) IMPORTANT: Type these on terminal Visual studio to install 'numpy'
 
 (venv)       5) pip install numpy
 
-B) RESULT of input: EightPuzzle((1, 3, 8, 6, 5, 0, 4, 2, 7))
 
-![Screenshot (1046)](https://user-images.githubusercontent.com/102126445/160235668-2bbf7a2d-035a-42a8-b6d0-87978692c5dd.png)
-
-C) Qucik Python creator file on VS. Type these on Cmd
+B) Qucik Python creator file on VS. Type these on Cmd
 
 mkdir EightPuzzle
 
@@ -32,3 +29,8 @@ cd EightPuzzle
 new-item EightPuzzle.py
 
 code .
+
+
+C) RESULT of input: EightPuzzle((1, 3, 8, 6, 5, 0, 4, 2, 7))
+
+![Screenshot (1046)](https://user-images.githubusercontent.com/102126445/160235668-2bbf7a2d-035a-42a8-b6d0-87978692c5dd.png)
