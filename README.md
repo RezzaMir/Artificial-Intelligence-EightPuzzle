@@ -17,7 +17,7 @@ A) IMPORTANT: Type these on terminal Visual studio to install 'numpy'
 
 4) venv\scripts\activate
 
-(venv)       5) pip install numpy
+(venv) 5) pip install numpy
 
 
 B) Qucik Python creator file on VS. Type these on Cmd
