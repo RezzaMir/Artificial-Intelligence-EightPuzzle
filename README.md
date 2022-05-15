@@ -1,4 +1,4 @@
-# EightPuzzle.py
+# AI - EightPuzzle
 This python codes is a basic artificial intelligence that can solve eight puzzle with any inputs
 
 Also add files 'utils' and 'search' if you do not have them on visual studio
